@@ -13,7 +13,7 @@
 
 
 * Joana de Medeiros Oliveira Hulse Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
-* Julia Guedes Almeida dos Santos, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
+* Júlia Guedes Almeida dos Santos, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Katarina da Silva Vilarins, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Raquel de Godoy Vianna, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 
