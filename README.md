@@ -7,9 +7,9 @@
 
 ## Colaboradores
 [<img src="https://avatars.githubusercontent.com/u/172425100?v=4" width=115>](https://github.com/jojomolinetes)
-[<img src="https://avatars.githubusercontent.com/u/172425104?v=4" width=115>](https://github.com/JuliaGuedesASantos)
-[<img src="https://avatars.githubusercontent.com/u/172425156?v=4" width=115>](https://github.com/KatarinaVilarins)
-[<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115>](https://github.com/RaquelGVianna)
+[<img src="https://avatars.githubusercontent.com/u/172424779?v=4" width=115>](https://github.com/JuliaGuedesASantos)
+[<img src="https://avatars.githubusercontent.com/u/172425306?v=4" width=115>](https://github.com/KatarinaVilarins)
+[<img src="https://avatars.githubusercontent.com/u/172425251?v=4" width=115>](https://github.com/RaquelGVianna)
 
 
 * Joana de Medeiros Oliveira Hulse Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
@@ -35,7 +35,7 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
   - [Objetivo Principal](#objetivo-principal)
 * [Índice](#índice)
 * [Demonstração da Aplicação](#demonstração-da-aplicação)
-  - [Professor](#professor)
+  - [Ortogonalização po Gram-Schmidt](#ortogonalização-por-Gram-Schmidt)
   - [Aluno](#aluno)
 * [Informações técnicas](#informações-técnicas)
 * [Contribuições](#contribuições)
