@@ -43,8 +43,8 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 * [Descrição do Projeto](#descrição-do-projeto)
   - [Objetivo Principal](#objetivo-principal)
 * [Índice](#índice)
-* [Demonstração da Aplicação](#demonstração-da-aplicação)
-  - [Ortogonalização po Gram-Schmidt](#ortogonalização-por-Gram-Schmidt)
+* [Demonstrações da Aplicação](#demonstrações-da-aplicação)
+  - [Ortogonalização por Gram-Schmidt](#ortogonalização-por-Gram-Schmidt)
   - [Decomposição QR](#decomposição-QR)
   - [Método de Francis](#método-de-Francis)
 * [Informações técnicas](#informações-técnicas)
@@ -54,6 +54,21 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 * [Nota adicional](#nota-adicional)
 
 <br>
+
+## Demonstrações da Aplicação
+### Ortogonalização por Gram-Schmidt
+
+<br>
+
+<br><br>
+
+### Decomposição QR
+
+<br><br>
+
+### Método de Francis
+
+<br><br>
 
 ## Informações técnicas
 * Linguagem de programação
