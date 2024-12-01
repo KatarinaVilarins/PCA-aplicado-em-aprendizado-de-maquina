@@ -18,10 +18,13 @@
 * Raquel de Godoy Vianna, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 
 ## Descrição do Projeto
+Trabalho final do segundo período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Álgebra Linear Computacional', ministrada pelo Professor Doutor Vinicius Francisco Wasques.
+<br>
 <p align="justify">
-Trabalho final do segundo período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Álgebra Linear Computacional', ministrada pelo Professor Doutor Vinicius Francisco Wasques.<br>
 Uma implementação computacional de Análise de Componentes Principais (PCA) associado aos métodos de decomposição QR e ortogonalização por Gram-Schmidts, para redução de dimensionalidade e treinamento de modelos de aprendizado de máquina.  
+
 PCA (Análise em Componentes Principais) é uma técnica estatística utilizada para reduzir a dimensionalidade de grandes conjuntos de dados enquanto preserva a maior parte da variabilidade do conjunto. O PCA é amplamente utilizado pois permite otimizar diversos processos como interpretação de dados, identificação de padrões, redução de complexidade de dados em grandes dimensões.  Os métodos modernos de redução de dimensionalidade são importantes em diversas áreas do conhecimento, como mecânica quântica, processamento de imagens, análise de vibrações, estatística etc. 
+
 Em formato de código, aplicamos o método de Gram-Schmidt para converter um conjunto de vetores linearmente independentes em um conjunto ortonormal, que será utilizado para a decomposição QR e pode ser usado como parte do cálculo dos componentes principais do PCA, ao construir bases ortogonais no processo de análise. Com a matriz Q ortonormal gerada pela ortogonalização de Gram-Schmidt, uma matriz R inicialmente nula é construída a partir dos coeficientes do processo de ortogonalização, dando origem a matriz QR. Por fim, implementamos o método de Francis, que consiste em repetir a decomposição QR de uma matriz e recompor a matriz A multiplicando as partes resultantes. Após muitas iterações, a matriz inicial converge para uma matriz triangular superior, onde os autovalores de A aparecem na diagonal. O método QR é utilizado aqui, pois fornece uma maneira estável de fatorar a matriz A, e garante a separação dos autovalores. Todos esses métodos possibilitam que encontremos os autovalores e autovetores de uma matriz de dados complexa, que podem reduzir significativamente a a dimensão dos dados se utilizadas corretamente, simplificando a implementação do algoritmo e nos ajudando a identificar padrões nas amostras sem exigir conhecimento prévio sobre a origem ou características específicas dos grupos de tratamento.  
 </p>
 
