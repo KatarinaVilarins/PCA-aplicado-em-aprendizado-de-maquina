@@ -72,26 +72,32 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 
 <br>
 
-![image](https://web.whatsapp.com/efc475c6-087d-4f17-aa99-350d582f7bc6)  
+![image](https://github.com/user-attachments/assets/b0d19969-60b4-4bd3-a6da-8a2418f03e3a)
 
-<br><br>
+<br>
 
 ### Decomposição QR
 
 <br>
-![image](https://web.whatsapp.com/d0b28013-530e-47fb-88bf-8e0a696b4a13) 
-<br><br>
+
+![image](https://github.com/user-attachments/assets/8d98db3b-f969-4c1f-ba71-49fc0e850415)
+ 
+<br>
 
 ### Método de Francis
 
 <br>
-![image](https://web.whatsapp.com/1669998f-3942-43ca-942e-02931fdc8c26) 
-<br><br>
+
+![image](https://github.com/user-attachments/assets/2b513a34-c6f2-46f6-b4a4-6ed3069b0e79)
+
+<br>
 
 ### PCA
 <br>
-![image](https://web.whatsapp.com/a8cfed73-c8c9-4b24-a6f7-3d10e22619a8.png) 
-<br><br>
+
+![image](https://github.com/user-attachments/assets/427b60ce-589d-4033-a85e-ee800417244b)
+
+<br>
 
 ## Informações técnicas
 * Linguagem de programação
@@ -105,7 +111,7 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
   - Matplotlib.pyplot 3.9.0
   - Sklearn 1.5.2
 
-<br><br>
+<br>
 
 ## Conclusão
 <p align="justify">
