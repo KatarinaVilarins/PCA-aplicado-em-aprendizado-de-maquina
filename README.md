@@ -126,6 +126,4 @@ Lohhans. Exemplo de um bom README. 2023. Disponível em: https://gist.github.com
 
 Rocketseat. Como fazer um bom README. 2023. Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 29 nov. 2024.
 
-Stack Overflow. Como escrever em um arquivo txt em Python?. 2020. Disponível em: https://pt.stackoverflow.com/questions/464675/como-escrever-em-um-arquivo-txt-em-python. Acesso em: 29 nov. 2024.
-
 YouTube. Como fazer um bom README. 2023. Disponível em: https://youtu.be/ZWj8o692qGY?si=PBVFkb1a_aHU3K_p. Acesso em: 29 nov. 2024. ​
