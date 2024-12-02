@@ -1,5 +1,5 @@
 ![Logos MCTI, CNPEM e ILUM](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/93c3eb13-410c-40c0-a412-7096187678a4)
-<h1 align='center'> Projeto final Álgebra Linear Computacional - PCA aplicado em aprendizado de máquina </h1>
+<h1 align='center'> Projeto final Álgebra Linear Computacional <br> PCA aplicado em aprendizado de máquina </h1>
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
