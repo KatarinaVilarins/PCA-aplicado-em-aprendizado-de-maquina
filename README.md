@@ -5,7 +5,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-## Colaboradores
+## Colaboradores 🫂
 [<img src="https://avatars.githubusercontent.com/u/172425100?v=4" width=115>](https://github.com/jojomolinetes)
 [<img src="https://avatars.githubusercontent.com/u/172424779?v=4" width=115>](https://github.com/JuliaGuedesASantos)
 [<img src="https://avatars.githubusercontent.com/u/172425306?v=4" width=115>](https://github.com/KatarinaVilarins)
@@ -17,7 +17,7 @@
 * Katarina da Silva Vilarins, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Raquel de Godoy Vianna, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 
-## Descrição do Projeto
+## Descrição do Projeto 🗒️
 Trabalho final do segundo período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Álgebra Linear Computacional', ministrada pelo Professor Doutor Vinicius Francisco Wasques.
 <br>
 <p align="justify">
@@ -38,7 +38,7 @@ Em formato de código, aplicamos o método de Gram-Schmidt para converter um con
 <br>
 
 
-## Objetivo principal 
+## Objetivo principal 🎯
 <p align="justify">
 Este estudo tem como objetivo a investigação de métodos de redução de dimensionalidade de dados, que possibilitem a otimização do processo de cálculo de autovalores e autovetores para grandes conjuntos. Procuramos implementar o método de decomposição QR, Francis e Gram-Schmidt com posterior aplicação em PCA, buscando reduzir a complexidade de dados, diminuindo o custo computacional dos modelos e possibilitando uma execução otimizada para algoritmos de aprendizado de máquina.
 Dada a relevância da otimização do cálculo de autovalores e autovetores, buscamos desenvolver uma ferramenta que associe os métodos de decomposição QR e ortogonalização por Gram-Schmidt, oferecendo uma solução útil para as diversas áreas que demandam esses cálculos. Essa ferramenta visa, assim, aprimorar o processo de cálculo, contribuindo para a resolução de problemas de forma mais eficiente.
@@ -50,7 +50,7 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 </p>
 <br>
 
-## ÍNDICE
+## ÍNDICE 📚
 * [Colaboradores](#colaboradores)
 * [Descrição do Projeto](#descrição-do-projeto)
   - [Objetivo Principal](#objetivo-principal)
@@ -67,7 +67,7 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 
 <br>
 
-## Demonstrações da Aplicação
+## Demonstrações da Aplicação 🤖
 ### Ortogonalização por Gram-Schmidt
 
 <br>
@@ -99,7 +99,7 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 
 <br>
 
-## Informações técnicas
+## Informações técnicas 🦾
 * Linguagem de programação
   - Python 3.9
 * Software
@@ -113,7 +113,7 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 
 <br>
 
-## Conclusão
+## Conclusão 🔚
 <p align="justify">
 Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era avaliar a relevância de ferramentas de obtenção de autovalores e autovetores associadas ao cálculo de PCA, usando como exemplo algoritmos de decomposição QR, ortogonalização por Gram-Schmidt e método de Francis. Para provar os conceitos estudados, aplicamos a Análise de Componentes Principais no modelo de aprendizado de máquina k-nn, e percebemos que não houve diferença significativa no desempenho após sua implementação.
 <br><br>
@@ -122,14 +122,14 @@ Porém, a implementação computacional desses métodos permitiu não apenas uma
 Os resultados obtidos evidenciam a importância desses conceitos matemáticos, que quando integrados de forma algorítmica podem ser ferramentas eficazes para resolver problemas de álgebra linear com maior eficiência e precisão. Por fim, o trabalho abre caminho para futuras extensões, como a otimização dos algoritmos para lidar com conjuntos de dados ainda maiores ou sua aplicação em outros modelos de aprendizado de máquina não abordados no notebook. Assim, reafirma-se a importância contínua do desenvolvimento de ferramentas que conectem teoria matemática e soluções computacionais.
 <br>
 
-## Agradecimentos
+## Agradecimentos 🙏
 <p align="justify">
 Agradecemos ao CNPEM e à Ilum pela disponibilização de materiais que nos permitiu desenvolver nosso projeto integralmente, além de possibilitar que fosse possível nosso avanço enquanto pesquisadores ao nos fornecer acesso e oportunidades de trabalhar nossa criatividade e  habilidades computacionais num ambiente equipado.
 Agradecemos ao prof. Dr. Vinicius Francisco Wasques pela orientação durante todo o processo, disponibilidade de horários para dúvidas, e por nos ensinar grande parte do que foi aplicado no presente trabalho.
 </p>
 <br>
 
-## Referências
+## Referências 📜
 Alura. Como escrever um bom README. 2023. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 29 nov. 2024.
 
 ChatGPT. ChatGPT. 2024. Disponível em: https://chatgpt.com/. Acesso em: 29 nov. 2024.
