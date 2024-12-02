@@ -72,25 +72,25 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 
 <br>
 
-![image](blob:https://web.whatsapp.com/efc475c6-087d-4f17-aa99-350d582f7bc6)  
+![image](https://web.whatsapp.com/efc475c6-087d-4f17-aa99-350d582f7bc6)  
 
 <br><br>
 
 ### Decomposição QR
 
 <br>
-![image](blob:https://web.whatsapp.com/d0b28013-530e-47fb-88bf-8e0a696b4a13) 
+![image](https://web.whatsapp.com/d0b28013-530e-47fb-88bf-8e0a696b4a13) 
 <br><br>
 
 ### Método de Francis
 
 <br>
-![image](blob:https://web.whatsapp.com/1669998f-3942-43ca-942e-02931fdc8c26) 
+![image](https://web.whatsapp.com/1669998f-3942-43ca-942e-02931fdc8c26) 
 <br><br>
 
 ### PCA
 <br>
-![image](blob:https://web.whatsapp.com/a8cfed73-c8c9-4b24-a6f7-3d10e22619a8) 
+![image](https://web.whatsapp.com/a8cfed73-c8c9-4b24-a6f7-3d10e22619a8.png) 
 <br><br>
 
 ## Informações técnicas
