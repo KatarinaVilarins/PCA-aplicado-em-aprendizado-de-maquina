@@ -88,26 +88,35 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 * Software
   - Jupyter Notebook
 * Bibliotecas
-* REVISAR
-  - BoxPlot 0.1.1
-  - Collections 0.1.6
-  - Matplotlib 3.9.0
-  - Matplotlib.pyplot 3.9.0
   - Numpy 1.26.4
-  - Os 2.1.4
+  - Seaborn 0.13.2
   - Pandas 2.2.2
+  - Matplotlib.pyplot 3.9.0
+  - Sklearn 1.5.2
 
 <br><br>
 
 ## Conclusão
-Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era 
+Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era avaliar a relevância de ferramentas de obtenção de autovalores e autovetores associadas ao cálculo de PCA, usando como exemplo algoritmos de decomposição QR, ortogonalização por Gram-Schmidt e método de Francis. Para provar os conceitos estudados, aplicamos a Análise de Componentes Principais no modelo de aprendizado de máquina k-nn, e percebemos que não houve diferença significativa no desempenho após sua implementação.
 <br>
-Os resultados apresentados no trabalho contribuem com os diversos objetivos alcançados pelos algoritmos, tornando o processo 
+Porém, a implementação computacional desses métodos permitiu não apenas uma abordagem teórica aprofundada, mas também a criação de uma solução prática voltada para problemas reais de redução de dimensionalidade e análise de dados, demonstrando como a manipulação de dados complexos pode ser simplificada sem comprometer as características essenciais do conjunto. Buscamos destacar o impacto direto dos métodos estudados na melhoria de processos analíticos em diferentes áreas do conhecimento.
 <br>
-Apesar de ser um projeto puramente didático, as aplicações foram notáveis e satisfatórias, cumprindo com o propósito do grupo.
+Os resultados obtidos evidenciam a importância desses conceitos matemáticos, que quando integrados de forma algorítmica podem ser ferramentas eficazes para resolver problemas de álgebra linear com maior eficiência e precisão. Por fim, o trabalho abre caminho para futuras extensões, como a otimização dos algoritmos para lidar com conjuntos de dados ainda maiores ou sua aplicação em outros modelos de aprendizado de máquina não abordados no notebook. Assim, reafirma-se a importância contínua do desenvolvimento de ferramentas que conectem teoria matemática e soluções computacionais.
 <br>
 
 ## Agradecimentos
-
+Agradecemos ao CNPEM e à Ilum pela disponibilização de materiais que nos permitiu desenvolver nosso projeto integralmente, além de possibilitar que fosse possível nosso avanço enquanto pesquisadores ao nos fornecer acesso e oportunidades de trabalhar nossa criatividade e  habilidades computacionais num ambiente equipado.
+Agradecemos ao prof. Dr. Vinicius Francisco Wasques pela orientação durante todo o processo, disponibilidade de horários para dúvidas, e por nos ensinar grande parte do que foi aplicado no presente trabalho.
 
 ## Referências
+Alura. Como escrever um bom README. 2023. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 29 nov. 2024.
+
+ChatGPT. ChatGPT. 2024. Disponível em: https://chatgpt.com/. Acesso em: 29 nov. 2024.
+
+Lohhans. Exemplo de um bom README. 2023. Disponível em: https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89. Acesso em: 29 nov. 2024.
+
+Rocketseat. Como fazer um bom README. 2023. Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 29 nov. 2024.
+
+Stack Overflow. Como escrever em um arquivo txt em Python?. 2020. Disponível em: https://pt.stackoverflow.com/questions/464675/como-escrever-em-um-arquivo-txt-em-python. Acesso em: 29 nov. 2024.
+
+YouTube. Como fazer um bom README. 2023. Disponível em: https://youtu.be/ZWj8o692qGY?si=PBVFkb1a_aHU3K_p. Acesso em: 29 nov. 2024. ​
