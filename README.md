@@ -97,16 +97,25 @@ O presente trabalho conta com 3 partes principais: implementação em linguagem 
 <br><br>
 
 ## Conclusão
+<p align="justify">
 Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era avaliar a relevância de ferramentas de obtenção de autovalores e autovetores associadas ao cálculo de PCA, usando como exemplo algoritmos de decomposição QR, ortogonalização por Gram-Schmidt e método de Francis. Para provar os conceitos estudados, aplicamos a Análise de Componentes Principais no modelo de aprendizado de máquina k-nn, e percebemos que não houve diferença significativa no desempenho após sua implementação.
+ </p>
 <br>
+<p align="justify">
 Porém, a implementação computacional desses métodos permitiu não apenas uma abordagem teórica aprofundada, mas também a criação de uma solução prática voltada para problemas reais de redução de dimensionalidade e análise de dados, demonstrando como a manipulação de dados complexos pode ser simplificada sem comprometer as características essenciais do conjunto. Buscamos destacar o impacto direto dos métodos estudados na melhoria de processos analíticos em diferentes áreas do conhecimento.
+</p>
 <br>
+<p align="justify">
 Os resultados obtidos evidenciam a importância desses conceitos matemáticos, que quando integrados de forma algorítmica podem ser ferramentas eficazes para resolver problemas de álgebra linear com maior eficiência e precisão. Por fim, o trabalho abre caminho para futuras extensões, como a otimização dos algoritmos para lidar com conjuntos de dados ainda maiores ou sua aplicação em outros modelos de aprendizado de máquina não abordados no notebook. Assim, reafirma-se a importância contínua do desenvolvimento de ferramentas que conectem teoria matemática e soluções computacionais.
+</p>
 <br>
 
 ## Agradecimentos
+<p align="justify">
 Agradecemos ao CNPEM e à Ilum pela disponibilização de materiais que nos permitiu desenvolver nosso projeto integralmente, além de possibilitar que fosse possível nosso avanço enquanto pesquisadores ao nos fornecer acesso e oportunidades de trabalhar nossa criatividade e  habilidades computacionais num ambiente equipado.
 Agradecemos ao prof. Dr. Vinicius Francisco Wasques pela orientação durante todo o processo, disponibilidade de horários para dúvidas, e por nos ensinar grande parte do que foi aplicado no presente trabalho.
+</p>
+<br>
 
 ## Referências
 Alura. Como escrever um bom README. 2023. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 29 nov. 2024.
