@@ -33,7 +33,7 @@ Em formato de código, aplicamos o método de Gram-Schmidt para converter um con
 </p>
 <br>
 
-![PCA Visualization](https://via.placeholder.com/800x400?rtext=PCA+Graph)  
+![PCA Visualization]([https://via.placeholder.com/800x400?rtext=PCA+Graph](https://miro.medium.com/v2/resize:fit:596/1*QinDfRawRskupf4mU5bYSA.png))  
 
 <br>
 
